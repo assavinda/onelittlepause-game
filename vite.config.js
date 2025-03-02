@@ -20,4 +20,5 @@ export default defineConfig({
       dts: 'src/components.d.ts', // (Optional) TypeScript support
     }),
   ],
+  base: '/onelittlepause-game/'
 })
